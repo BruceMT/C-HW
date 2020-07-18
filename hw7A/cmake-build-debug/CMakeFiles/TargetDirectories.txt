@@ -1,0 +1,3 @@
+C:/Users/MWB20/Desktop/hw7A/cmake-build-debug/CMakeFiles/hw7A.dir
+C:/Users/MWB20/Desktop/hw7A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MWB20/Desktop/hw7A/cmake-build-debug/CMakeFiles/rebuild_cache.dir

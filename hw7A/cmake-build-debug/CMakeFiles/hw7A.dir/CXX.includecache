@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MWB20/Desktop/hw7A/main.cpp
+iostream
+-
+intrin.h
+C:/Users/MWB20/Desktop/hw7A/intrin.h
+
